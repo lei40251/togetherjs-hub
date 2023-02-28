@@ -1,0 +1,26 @@
+{
+  "name": "together-js-hub",
+  "version": "0.0.1",
+  "description": "Hub server for TogetherJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "websocket": "^1.0.30",
+    "optimist": "^0.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
